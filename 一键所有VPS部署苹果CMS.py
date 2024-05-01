@@ -2,7 +2,7 @@ import paramiko
 
 servers = [
 
-    {"name": "美国", "hostname": "207.2.123.2", "port": 22, "username": "root", "password": "XPjHBQr5", "domain": "mac.55555555.best"}   
+    {"name": "美国", "hostname": "Your Ip adress", "port": 22, "username": "root", "password": "your password", "domain": "yuming.com"}   
   
     # 添加更多服务器
 
